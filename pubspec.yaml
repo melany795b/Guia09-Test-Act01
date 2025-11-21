@@ -1,0 +1,14 @@
+name: guia09_test
+description: "Proyecto para pruebas unitarias - Guía 09"
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
