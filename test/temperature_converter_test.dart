@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:guia09_test/temperature_converter.dart'; // ¡CORREGIR ESTA LÍNEA!
+import 'package:guia09_test/temperature_converter.dart'; 
 
 void main() {
   late TemperatureConverter converter;
